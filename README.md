@@ -1,5 +1,15 @@
 # java-dsa-journey
 A structured learning repository documenting my journey of mastering Data Structures and Algorithms (DSA) using Java.
+
+# Objectives
+
+Build strong DSA fundamentals.
+
+Implement data structures and algorithms using Java.
+
+Understand time and space complexity.
+
+Improve logical thinking and problem-solving skills.
 # Tech Stack
 
 Language: Java
